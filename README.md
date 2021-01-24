@@ -13,6 +13,8 @@
     ROS melodic
     
     cv2
+    
+    rviz
 #  
 * ### result
 ![](https://i.imgur.com/uLbgbg7.png)
