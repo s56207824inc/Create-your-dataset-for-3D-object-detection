@@ -9,16 +9,9 @@
 
 # Visualization Tool
 ----
-* ### install dependencies
-    ROS melodic
-    
-    cv2
-    
-    rviz
-#  
-* ### result
-![](https://i.imgur.com/uLbgbg7.png)
-* ### usage
+* To use visualization tool to verify you can correctly show the sence(images, point clouds) and ground truth box based on KITTI dataset cause we finally would convert our json file into KITTI label format
+
+* [Detail in my another repo](https://github.com/s56207824inc/self-driving_visualization_ROS/tree/master)
 
 # Extract raw data from rosbag
 ---
