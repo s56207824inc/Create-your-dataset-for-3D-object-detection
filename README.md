@@ -17,11 +17,14 @@
 ---
 
 #### only testing on Velodyne HDL-32E, Ouster-128
-:::danger
-warning : 
+
+### warning : 
 * Velodyne point cloud should be reshape into (-1, 4)
 * Ouster point cloud should be reshape inot (-1,9)
-:::
+
+
+---
+
 
 
 * [Detail in my another repo](https://https://github.com/s56207824inc/ROS_bag_decoder)
