@@ -31,13 +31,27 @@
 
 
 
-# Annotated data
+# 3D Annotated data
 ---
+annotate your own data from your bag file
 ### [Label toolbox](https://github.com/ziliHarvey/smart-annotation-pointrcnn)
+### keyboard shortcut
 
-#### only can load 50 files a time to label
-#### format of result file is json
 
+| keyborad | functoin    |
+|:--------:| ----------- |
+|    Q     | next object |
+|    W     | last object |
+|    E     | lock up box |
+|   Del    | delet box   |
+
+### NOTE
+# 
+
+* #### only can load 50 files a time to label
+* #### format of result file is json
+* #### output format information are in 3D LiDAR View, it's different from KITTI format
+#
 
 # Convert format into KITTI label
 ---
