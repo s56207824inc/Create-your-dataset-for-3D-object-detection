@@ -17,27 +17,16 @@
 ---
 
 #### only testing on Velodyne HDL-32E, Ouster-128
+:::danger
+warning : 
 * Velodyne point cloud should be reshape into (-1, 4)
 * Ouster point cloud should be reshape inot (-1,9)
-
-### Step 1. To observe your bag information
-#### Open a terminal and type this command find which topic is your targeted signal
-
-```
-rosbag info <your bagfile.bag>
-```
-
-#### EX . in ouster-128 if my targeted signal is point cloud
-#### Its topic would be /points_raw
+:::
 
 
+* [Detail in my another repo](https://https://github.com/s56207824inc/ROS_bag_decoder)
 
-### Step 2. To extract your targeted signal
-#### modify pt_decoder subfunction in below script
-#### you might need to set your output path and signal topic name
-```
-python rosbag_deconder.py
-```
+
 
 # Annotated data
 ---
