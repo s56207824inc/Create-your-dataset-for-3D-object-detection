@@ -27,7 +27,7 @@
 
 
 
-* [Detail in my another repo](https://https://github.com/s56207824inc/ROS_bag_decoder)
+* [Detail in my another repo](https://github.com/s56207824inc/ROS_bag_decoder)
 
 
 
